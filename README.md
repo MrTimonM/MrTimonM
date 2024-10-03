@@ -1,29 +1,22 @@
-# Hey there! 👋 Welcome to the Land of Laziness 🛌💤
+# Welcome to My GitHub! 🛌💤
 
-I'm **MrTimonM**, a *master* of procrastination 😴 and automation enthusiast! I love playing with APIs, automating all the boring stuff, and generally doing anything to avoid real work. 🤖💻
+I'm **MrTimonM**, a *professional procrastinator* 🥇 and part-time coder (when I feel like it). I'm all about automating my life so I can sit back and do... nothing! 😎
 
-## What You'll Find Here:
-- Apps that do stuff... so I don’t have to 🛠️✨
-- API experiments (aka hacking) 🔧
-- Cool projects I'll totally finish... *someday* 🗓️
+## What’s Cookin’ Here:
+- Automation apps that make my life easier (because effort is overrated) 🤖🍕
+- Projects I’ll probably finish... eventually 🗓️
+- A bunch of cool stuff you’ll never see because it’s all still in my head! 🤯
 
-## My Superpowers:
-- **Automating the mundane** – Why do something twice? Let the machines handle it! 🤖
-- **API Hacking** – I dig deep into APIs, mostly to see what buttons I can push 🔍
-- **Expert Procrastinator** – I always deliver... eventually 😎
+## My Powers:
+- **Automating Laziness**: Why do it when a script can do it for you? 🚀
+- **Creative Excuses**: I'll get to it... tomorrow. Probably. Maybe. 😜
 
 ## Current Status:
-- 🛌 Thinking about starting that new project... maybe after a nap.
-- ☕ Powered by caffeine and the promise of *"I'll do it tomorrow."*
-
-## Fun Fact:
-If laziness was an Olympic sport, I'd have won gold... but I was too lazy to show up! 🏅
+- 🛌 Procrastinating with style.
+- ☕ Running on caffeine and 3 hours of sleep.
+- 📚 Currently learning: **HTML, CSS, and JavaScript** 🎨💻
+- 🧠 **Wishing** to learn: **Pyrogram** (once I stop procrastinating...) 🤞🐍
 
 ---
 
-🌱 I’m currently "working" on: **Getting motivated.**
-
-💬 Ask me about: **Automation, APIs, or how to do nothing productively.**
-
-📫 How to reach me: Just send a message... but expect a delay. 😉
-
+💬 Reach out, but don’t expect a speedy reply... I'm probably napping. 😉
