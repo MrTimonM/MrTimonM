@@ -1,22 +1,44 @@
-# Welcome to My GitHub! 🛌💤
+# Welcome to My GitHub! 🛌💤  
+Hey, I’m **MrTimonM** — *professional procrastinator*, part-time coder, and full-time nap enthusiast.  
 
-I'm **MrTimonM**, a *professional procrastinator* 🥇 and part-time coder (when I feel like it). I'm all about automating my life so I can sit back and do... nothing! 😎
-
-## What’s Cookin’ Here:
-- Automation apps that make my life easier (because effort is overrated) 🤖🍕
-- Projects I’ll probably finish... eventually 🗓️
-- A bunch of cool stuff you’ll never see because it’s all still in my head! 🤯
-
-## My Powers:
-- **Automating Laziness**: Why do it when a script can do it for you? 🚀
-- **Creative Excuses**: I'll get to it... tomorrow. Probably. Maybe. 😜
-
-## Current Status:
-- 🛌 Procrastinating with style.
-- ☕ Running on caffeine and 3 hours of sleep.
-- 📚 Currently learning: **HTML, CSS, and JavaScript** 🎨💻
-- 🧠 **Wishing** to learn: **Pyrogram** (once I stop procrastinating...) 🤞🐍
+If it can be automated, I’ll write a script for it.  
+If it *can’t* be automated... eh, I’ll think about it later. 😎
 
 ---
 
-💬 Reach out, but don’t expect a speedy reply... I'm probably napping. 😉
+## 🚧 What I’m Building (Slowly)
+- ⚙️ Automation tools for daily life – so I can do less and chill more
+- 🧠 Projects that *might* exist someday (they’re still in “idea limbo”)
+- 📦 Experiments, half-finished code, and the occasional masterpiece (probably accidental)
+
+---
+
+## 🧙‍♂️ My Superpowers
+- **Laziness Automation**: If I have to do it twice, I’m scripting it.  
+- **Deluxe Procrastination**: Why do today what can be delayed indefinitely?  
+- **Creative Excuses**: I'm fluent in "I'll do it later."  
+
+---
+
+## 🚀 Currently...
+- 📚 Learning: `HTML`, `CSS`, and `JavaScript`  
+- 🐍 Planning to learn: `Pyrogram` (eventually... maybe...)  
+- ☕ Powered by caffeine and the illusion of productivity  
+- 💤 Status: Napping with a side of coding  
+
+---
+
+## 📊 GitHub Stats
+
+![MrTimonM's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTimonM&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTimonM&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Reach Out (If You Dare)
+Want to collaborate, chat, or send a virtual coffee?  
+Drop me a message — but don’t expect an instant reply. I’m probably “thinking about it”... aka asleep. 😴
+
+---
+
+> “I automate, therefore I am... doing slightly less than average.” – *MrTimonM*
